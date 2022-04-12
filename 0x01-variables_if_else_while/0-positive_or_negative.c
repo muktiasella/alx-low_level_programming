@@ -3,10 +3,10 @@
 #include <stdio.h>
 
 /**
- * main-print if the number is postive, zera or negative
+ * main - Prints if number is positive, zero or negative
  *
- *  return: Always(Succes)
-*/
+ * Return: Always (Success)
+ */
 int main(void)
 {
 int n;
@@ -27,4 +27,3 @@ printf("%d is negative\n", n);
 }
 return (0);
 }
-
