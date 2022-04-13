@@ -6,7 +6,7 @@
  * main-print if the number is postive, zera or negative
  *
  *  return: Always(Succes)
-*/
+*/	
 int main(void)
 {
 int n;
@@ -20,7 +20,7 @@ printf("%d is positive\n", n);
 else if (n == 0)
 {
 printf("%d is zero\n", n);
-}
+:}
 else
 {
 printf("%d is negative\n", n);
