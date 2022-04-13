@@ -1,5 +1,3 @@
-#include "main.h"
-
 /**
  *  print_alphabet -prints to string
  *  Description: Prints aphabet in lowercase
