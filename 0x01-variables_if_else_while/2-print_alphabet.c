@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stduo.h>
 
 /**
  * main - Prints combination of numbers
